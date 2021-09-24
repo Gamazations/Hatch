@@ -1,3 +1,2 @@
 # Hatch
-HatchXR.com
-This will include all of your HatchXR projects.
+This will include all of your Hatch projects.
