@@ -23,4 +23,4 @@ Hatch.createTimer('clockTimer ', 10, function(){
   }
 })
 
-MAKE SURE VARIABLE 'Airplane' EXISTS. - https://hatchxr.com/@Gamazations/planeproject?scene=scene1
+MAKE SURE VARIABLE 'Airplane' EXISTS. - @Gamazations/planeproject?scene=scene1
